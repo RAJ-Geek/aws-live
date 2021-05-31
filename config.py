@@ -1,0 +1,6 @@
+customhost = "employee.c453f2quanor.ap-south-1.rds.amazonaws.com"
+customuser = "Admin"
+custompass = "Raj01997"
+customdb = "employee"
+custombucket = "addemployee"
+customregion = "ap-south-1b"
